@@ -1,0 +1,13 @@
+.todo-form {
+    border: 5px solid blueviolet;
+    padding: 20px;
+    margin: 50px;
+    justify-content: center;
+}
+
+.submit-btn {
+    margin:5px;
+    padding:5px;
+    background: rgb(231, 134, 223);
+    border-radius: 6px;
+}
